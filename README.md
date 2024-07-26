@@ -3,7 +3,7 @@ contains files for greenathon
 
 This the pitch deck explaining how our company trying to slove the sludge problem 
 
-[embed][greenathon.pdf](https://github.com/user-attachments/files/16396257/greenathon.pdf)[embed]
+
 
 ![image](https://github.com/user-attachments/assets/a80d0c15-970f-4faa-9161-3b3a623cd316)
 
