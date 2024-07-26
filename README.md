@@ -21,7 +21,7 @@ This the pitch deck explaining how our company trying to slove the sludge proble
 ![image](https://github.com/user-attachments/assets/842bcb67-65b8-4866-a5f6-85b96b789e30)
 ![image](https://github.com/user-attachments/assets/0e6e1556-bfae-490c-aa0e-59c82276cc41)
 
-![image](https://github.com/user-attachments/assets/5f02aaa6-0edf-4928-9930-6ad36b3560ce)
+
 
 
 
